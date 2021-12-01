@@ -1,0 +1,4 @@
+name: homework
+channels:
+  - defaults
+prefix: /Users/ashleycavnar/opt/anaconda3/envs/homework
